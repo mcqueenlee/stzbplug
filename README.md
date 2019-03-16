@@ -22,6 +22,7 @@
 [视频链接](https://github.com/mcqueenlee/stzbplug/blob/master/plug/portrait/userguide/guidevideo.mp4)</br>
 
 
-# 压秒助手
+# 关于其它
+## 压秒助手
 [跳转链接](https://github.com/mcqueenlee/stzbtimerhelper)
 <img src="https://github.com/mcqueenlee/stzbtimerhelper/blob/master/%E5%8A%9F%E8%83%BD%E6%88%AA%E5%9B%BE/Screenshot_20190226_220316.jpg" width="840" height="400" alt="功能界面1"/></br>
