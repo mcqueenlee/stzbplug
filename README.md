@@ -3,7 +3,12 @@
 [VirtualXposed.apk](https://github.com/android-hacker/VirtualXposed/releases/download/0.17.2/VirtualXposed_0.17.2.apk)</br>
 
 ## 界面预览</br>
-[预览1]:https://github.com/mcqueenlee/stzbplug/blob/master/plug/portrait/userguide/Screenshot_1.jpg </br>
+<p align="left">
+    <img src="https://github.com/mcqueenlee/stzbplug/blob/master/plug/portrait/userguide/Screenshot_1.jpg" alt="Sample"  width="270" height="585">
+    <p align="left">
+        <em>图片示例2</em>
+    </p>
+</p>
 ## 安装说明
 1.分别下载竖屏插件和VirtualXposed并安装</br>
 2.在桌面点击VirtualXposed，进入之后点击屏幕下方圆形菜单按钮</br>
